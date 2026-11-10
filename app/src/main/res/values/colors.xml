@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores Corporativos SENA -->
+    <color name="sena_green">#39A900</color>
+    <color name="sena_green_dark">#2B7E00</color>
+    <color name="sena_blue">#00324D</color>
+
+    <!-- Fondos y Superficies (Modo Claro) -->
+    <color name="app_background">#F8FAFC</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="surface_variant">#F1F5F9</color>
+
+    <!-- Textos -->
+    <color name="text_primary">#1E293B</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="text_hint">#94A3B8</color>
+
+    <!-- Bordes y Divisores -->
+    <color name="border_color">#E2E8F0</color>
+</resources>
